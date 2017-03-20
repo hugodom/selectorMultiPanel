@@ -1,5 +1,5 @@
 Ext.define('App.view.selectorMultiPanel.SelectorMultiPanel', {
-	extend: 'M.panel.MPanel',
+	extend: 'Ext.panel.Panel ',
 	alias: 'widget.selectormultipanel',
 	requires: [
 		'App.view.selectorMultiPanel.SelectorRow',

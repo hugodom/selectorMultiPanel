@@ -1,5 +1,5 @@
 Ext.define('App.view.selectorMultiPanel.SelectorPanel', {
-	extend: 'M.panel.MPanel',
+	extend: 'Ext.panel.Panel',
 	alias: 'widget.selectorpanel',
 
 	title: '',
